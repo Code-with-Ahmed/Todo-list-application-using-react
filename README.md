@@ -1,22 +1,22 @@
-Todo List Web Application
-Todo List Demo
+**Todo List Web Application**
+**Todo List Demo**
 
-Overview
+**Overview**
 This Todo List Web Application is a practice project developed using React.js and styled with Tailwind CSS. It allows users to manage their tasks efficiently, providing features such as adding, editing, and deleting tasks.
 
-Features
+**Features**
 React.js Power: Utilizes the React.js library for a dynamic and responsive user interface.
 Tailwind CSS Styling: Styled with Tailwind CSS to achieve a sleek and modern design.
 Effortless Task Management: Seamlessly add, edit, and delete tasks with just a few clicks.
 Intuitive User Experience: User-friendly interface to enhance productivity and organization.
-Demo Video
+**Demo Video**
 Watch the demo video here.
-
-Getting Started
+https://www.linkedin.com/posts/ahmed-khan-08a524230_reactjs-tailwindcss-webdevelopment-activity-7141056257163014144--kjK?utm_source=share&utm_medium=member_desktop
+**Getting Started**
 Clone the repository:
 
 
-git clone https://github.com/your-username/todo-list-react.git
+https://github.com/Code-with-Ahmed/Todo-list-application-using-react/
 Install dependencies:
 
 
@@ -39,11 +39,11 @@ Tailwind CSS
 Contributing
 Contributions are welcome! If you have any suggestions, enhancements, or bug fixes, please feel free to submit a pull request.
 
-License
+**License**
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Feel free to customize the README file further based on your project details, including updating placeholders and adding relevant links and images.
-
+**Feel free to customize the README file further based on your project details, including updating placeholders and adding relevant links and images.
+**
 
 
 
